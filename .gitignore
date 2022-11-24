@@ -1,6 +1,8 @@
 # Vim
 *~
 *.sw[p_]
+*.iml
+*.idea
 
 # Sublime Text
 *.sublime-project
