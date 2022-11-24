@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "Jiwoo Baek"
-  avatar           : "/assets/images/jiwoo_photo.jpg"
+  avatar           : "/assets/images/jiwoo_photo.png"
   bio              : "Always."
   location         : "South Korea"
-  email            :
+  email            : 20172049@sungshin.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
