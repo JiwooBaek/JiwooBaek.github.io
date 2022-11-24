@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/jiwoo_photo.png"
   bio              : "Always."
   location         : "South Korea"
-  email            :
+  email            : 20172049@sungshin.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: 20172049@sungshin.ac.kr
+      #url: 20172049@sungshin.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jiwoobaek.github.io/"
