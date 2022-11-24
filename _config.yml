@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/jiwoo_photo.jpg"
   bio              : "Always."
   location         : "South Korea"
-  email            : 20172049@sungshin.ac.kr
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
