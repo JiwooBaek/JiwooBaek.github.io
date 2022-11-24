@@ -1,6 +1,6 @@
 ---
 title:  "First post on my blog"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+excerpt: "블로그의 첫번째 포스트입니다 :)"
 
 categories:
   - Blog
