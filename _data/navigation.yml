@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "category"
+    children:
+      - title: "Spring"
+        url: "https://jiwoobaek.github.io/categories/#spring"
